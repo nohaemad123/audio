@@ -1,0 +1,66 @@
+/*
+GESS Two
+*/
+@font-face {
+    font-family: 'Ah-moharram-bold';
+    src: url('fonts/Ah-moharram-bold/ahmoharrambold.eot');
+    src: url('fonts/Ah-moharram-bold/ahmoharrambold.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Ah-moharram-bold/ahmoharrambold.woff') format('woff'),
+    url('fonts/Ah-moharram-bold/ahmoharrambold.ttf') format('truetype'),
+    url('fonts/Ah-moharram-bold/ahmoharrambold.svg#ahmoharrambold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Ah-moharram-light';
+    src: url('fonts/Ah-moharram-light/ahmoharramlight.eot');
+    src: url('fonts/Ah-moharram-light/ahmoharramlight.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Ah-moharram-light/ahmoharramlight.woff') format('woff'),
+    url('fonts/Ah-moharram-light/ahmoharramlight.ttf') format('truetype'),
+    url('fonts/Ah-moharram-light/ahmoharramlight.svg#ahmoharramlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GESSTwoMedium-Medium';
+    src: url('fonts/GESSTwoMedium-Medium/gesstwomedium.eot');
+    src: url('fonts/GESSTwoMedium-Medium/gesstwomedium.eot?#iefix') format('embedded-opentype'),
+    url('fonts/GESSTwoMedium-Medium/gesstwomedium.woff') format('woff'),
+    url('fonts/GESSTwoMedium-Medium/gesstwomedium.ttf') format('truetype'),
+    url('fonts/GESSTwoMedium-Medium/gesstwomedium.svg#gesstwomedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GESSUniqueLight-Light';
+    src: url('fonts/GESSUniqueLight-Light/gessuniquelight.eot');
+    src: url('fonts/GESSUniqueLight-Light/gessuniquelight.eot?#iefix') format('embedded-opentype'),
+    url('fonts/GESSUniqueLight-Light/gessuniquelight.woff') format('woff'),
+    url('fonts/GESSUniqueLight-Light/gessuniquelight.ttf') format('truetype'),
+    url('fonts/GESSUniqueLight-Light/gessuniquelight.svg#gessuniquelight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'splart-h-mawaddah2black';
+    src: url('fonts/splart-h-mawaddah2black/splarthmawaddah2black.eot');
+    src: url('fonts/splart-h-mawaddah2black/splarthmawaddah2black.eot?#iefix') format('embedded-opentype'),
+    url('fonts/splart-h-mawaddah2black/splarthmawaddah2black.woff') format('woff'),
+    url('fonts/splart-h-mawaddah2black/splarthmawaddah2black.ttf') format('truetype'),
+    url('fonts/splart-h-mawaddah2black/splarthmawaddah2black.svg#splarthmawaddah2black') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+/*
+JFFlatregular
+*/
+@font-face {
+    font-family: 'JFFlatregular';
+    src: url('fonts/JF-Flat-regular/JFFlatregular.eot');
+    src: url('fonts/JF-Flat-regular/JFFlatregular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/JF-Flat-regular/JFFlatregular.woff') format('woff'),
+    url('fonts/JF-Flat-regular/JFFlatregularr.ttf') format('truetype'),
+    url('fonts/JF-Flat-regular/JFFlatregular.svg#JFFlatregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
